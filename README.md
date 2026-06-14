@@ -65,3 +65,16 @@ simulator:
   estimate.
 - Add stochastic/variable daily traffic instead of fixed
   launches/returns per day.
+
+
+## CAD Model
+
+A preliminary CAD model of the Skyhook system is included in the `CAD/`
+directory.
+
+Files:
+- `Geom.scdocx` — ANSYS SpaceClaim geometry model of the Skyhook concept.
+
+The CAD model is intended as a visual and engineering representation of
+the simulated momentum-exchange tether system. It complements the physics
+simulator by providing a conceptual structural design of the Skyhook.

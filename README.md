@@ -69,7 +69,7 @@ simulator:
 
 ## CAD Model
 
-A preliminary CAD model of the Skyhook system is included in the `CAD/`
+A conceptual CAD model of the Skyhook system is included in the `CAD/` 
 directory.
 
 Files:
